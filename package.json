@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/GabrielPrediger/nodejs-simple-projetct#readme",
   "dependencies": {
-    "fastify": "^4.25.2"
+    "fastify": "^4.25.2",
+    "postgres": "^3.4.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
   }
 }
