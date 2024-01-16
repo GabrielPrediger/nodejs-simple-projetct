@@ -1,6 +1,7 @@
 # Projeto Node.js - CRUD simples sobre videos
 
 Este projeto foi desenvolvido como parte de um curso simples de Node.js, visando a prática e aprimoramento dos conhecimentos na linguagem.
+Além de user Node.js, foi usado o Neon.tech que é um Serverless Postgres, e foi deployado o projeto no Render.com
 
 ## Configuração do Banco de Dados
 
