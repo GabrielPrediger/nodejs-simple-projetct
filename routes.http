@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://videos-api-xs85.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,15 +9,15 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/videos?search=Node
+GET https://videos-api-xs85.onrender.com/videos?search=Node
 
 ###
-GET http://localhost:3333/videos
+GET https://videos-api-xs85.onrender.com/videos
 
 
 ###
 
-PUT http://localhost:3333/videos/:id
+PUT https://videos-api-xs85.onrender.com/videos/:id
 Content-Type: application/json
 
 {
@@ -28,5 +28,5 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/:id
+DELETE https://videos-api-xs85.onrender.com/videos/:id
 Content-Type: application/json
